@@ -20,6 +20,7 @@ Windows batch-скрипт для массовой перезагрузки ус
 - Windows ОС
 - Утилита `curl` (должна быть доступна в PATH)
 - Сетевой доступ к устройствам Yealink
+- Включить на телефоне Action URI (https://habr.com/ru/companies/ipmatika/articles/716476/)
 
 ### Запуск
 1. Скачайте файл `yealink_reboot.bat`
